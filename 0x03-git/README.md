@@ -1,1 +1,1 @@
--This folder is using for git projects-
+-Git project is aweasome-
